@@ -101,6 +101,6 @@ Read More
 [1]: https://wisebot.io/simple-email-scheduler-for-gmail.html
 [2]: https://developers.google.com/apps-script/
 [3]: https://developers.google.com/apps-script/guides/triggers/installable#managing_triggers_manually
-[4]: https://chrome.google.com/webstore/detail/nbmpdhdjogfaoghpjdldfnlbbgpjohbj/
+[4]: https://chrome.google.com/webstore/detail/simple-email-scheduler/nbmpdhdjogfaoghpjdldfnlbbgpjohbj/
 [5]: https://script.google.com/macros/s/AKfycbzlhN8C66VR_JfGd_jYK9EhGNyaDTODjK2fnhHAgU1yE2B_MYo/exec
 [6]: https://wisebot.io/
