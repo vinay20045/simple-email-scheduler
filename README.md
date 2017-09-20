@@ -94,13 +94,13 @@ Gotchas
 Read More
 ---------
 * If you want to understand all use cases this script serves in detail, go [here][1]
-* If you don't want to do all this manually, we have built an extension for it. [Check it out][6]
+* If you don't want to do all this manually, we have built an awesome extension for it. [Check it out][6]
 
 
 
 [1]: https://wisebot.io/simple-email-scheduler-for-gmail.html
 [2]: https://developers.google.com/apps-script/
 [3]: https://developers.google.com/apps-script/guides/triggers/installable#managing_triggers_manually
-[4]: https://chrome.google.com/webstore/
+[4]: https://chrome.google.com/webstore/detail/nbmpdhdjogfaoghpjdldfnlbbgpjohbj/
 [5]: https://script.google.com/macros/s/AKfycbzlhN8C66VR_JfGd_jYK9EhGNyaDTODjK2fnhHAgU1yE2B_MYo/exec
 [6]: https://wisebot.io/
